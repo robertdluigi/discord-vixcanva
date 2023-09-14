@@ -1,0 +1,34 @@
+{
+  "name": "discord-vixcanva",
+  "version": "1.0.72",
+  "description": "A better way to customize your discord canvas!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/robertdluigi/discord-vixcanva.git"
+  },
+  "keywords": [
+    "discord",
+    "canvas"
+  ],
+  "author": "robertdluigi/hevix",
+  "license": "ISC",
+  "bugs": {
+    "url": "git+https://github.com/robertdluigi/discord-vixcanva/issues"
+  },
+  "homepage": "https://github.com/robertdluigi/discord-vixcanva#readme",
+  "devDependencies": {
+    "canvas": "^2.11.2",
+    "moment": "^2.29.4"
+  },
+  "dependencies": {
+    "discord-vixcanva": "^1.0.0",
+    "gif-encoder": "^0.7.2",
+    "gif.js": "^0.2.0",
+    "gifencoder": "^2.0.1",
+    "node-fetch": "^3.3.2"
+  }
+}
